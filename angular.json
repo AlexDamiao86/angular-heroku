@@ -107,5 +107,8 @@
       }
     }
   },
-  "defaultProject": "angular-heroku"
+  "defaultProject": "angular-heroku",
+  "cli": {
+    "analytics": false
+  }
 }
